@@ -1,0 +1,9 @@
+Flask
+pandas
+openpyxl
+PyPDF2
+python-dotenv
+Werkzeug
+xlrd
+xlwt
+gunicorn
